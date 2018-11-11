@@ -1,0 +1,22 @@
+<annotaion>
+  <folder>folder</folder>
+  <filename>235.JPG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>298</ymin>
+      <xmax>295</xmax>
+      <ymax>440</ymax>
+    </bndbox>
+  </object>
+</annotaion>

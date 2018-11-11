@@ -1,0 +1,22 @@
+<annotaion>
+  <folder>folder</folder>
+  <filename>DSCN8444.JPG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>952</xmin>
+      <ymin>745</ymin>
+      <xmax>1168</xmax>
+      <ymax>898</ymax>
+    </bndbox>
+  </object>
+</annotaion>

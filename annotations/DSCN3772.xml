@@ -1,0 +1,22 @@
+<annotaion>
+  <folder>folder</folder>
+  <filename>DSCN3772.JPG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Scratch_or_spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>63</xmin>
+      <ymin>965</ymin>
+      <xmax>167</xmax>
+      <ymax>1144</ymax>
+    </bndbox>
+  </object>
+</annotaion>

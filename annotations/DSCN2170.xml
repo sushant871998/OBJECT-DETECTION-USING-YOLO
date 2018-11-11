@@ -1,0 +1,34 @@
+<annotaion>
+  <folder>folder</folder>
+  <filename>DSCN2170.JPG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>246</xmin>
+      <ymin>612</ymin>
+      <xmax>491</xmax>
+      <ymax>873</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>641</xmin>
+      <ymin>620</ymin>
+      <xmax>1850</xmax>
+      <ymax>1102</ymax>
+    </bndbox>
+  </object>
+</annotaion>

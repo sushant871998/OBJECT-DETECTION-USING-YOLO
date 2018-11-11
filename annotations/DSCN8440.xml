@@ -1,0 +1,34 @@
+<annotaion>
+  <folder>folder</folder>
+  <filename>DSCN8440.JPG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Scratch_or_spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>832</xmin>
+      <ymin>628</ymin>
+      <xmax>1239</xmax>
+      <ymax>915</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scratch_or_spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>882</xmin>
+      <ymin>599</ymin>
+      <xmax>1289</xmax>
+      <ymax>886</ymax>
+    </bndbox>
+  </object>
+</annotaion>

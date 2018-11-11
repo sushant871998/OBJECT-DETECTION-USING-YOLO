@@ -1,0 +1,34 @@
+<annotaion>
+  <folder>folder</folder>
+  <filename>DSCN4523.JPG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>587</xmin>
+      <ymin>828</ymin>
+      <xmax>1023</xmax>
+      <ymax>1218</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scratch_or_spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>379</xmin>
+      <ymin>607</ymin>
+      <xmax>686</xmax>
+      <ymax>869</ymax>
+    </bndbox>
+  </object>
+</annotaion>

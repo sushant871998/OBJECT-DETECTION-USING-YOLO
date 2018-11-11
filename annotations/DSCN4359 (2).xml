@@ -1,0 +1,22 @@
+<annotaion>
+  <folder>folder</folder>
+  <filename>DSCN4359 (2).JPG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <dificult>0</dificult>
+    <bndbox>
+      <xmin>132</xmin>
+      <ymin>159</ymin>
+      <xmax>205</xmax>
+      <ymax>246</ymax>
+    </bndbox>
+  </object>
+</annotaion>
